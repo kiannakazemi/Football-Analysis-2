@@ -19,4 +19,4 @@ In this project I used itertools generators and libraries to build a pipeline th
       'city': 'Fort Lauderdale', 'country': 'United States', 'neutral':
       'FALSE'}
       
-    - Process the dictionaries obtained in the previous step to calculate using the itertool libraries (and thus optimizing the use of memory) the total sum of goals scored by           Poland in all World Cup matches.
+    - Process the dictionaries obtained in the previous step to calculate using the itertool libraries (and thus optimizing the use of memory) the total sum of goals scored by  Poland in all World Cup matches.
