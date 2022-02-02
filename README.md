@@ -6,7 +6,7 @@ https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
 
 In this project I used itertools generators and libraries to build a pipeline that performs the following sequence of transformations and filters:
 
-    - Using a generator read the data row by row
+    - Use a generator to read the data
     
     - Convert each record into a dictionary by using column names as attribute names and then merge all dictionaries into one list.
     Es. The line on the 2020-12-09 US-El Salvador match must be converted to:
